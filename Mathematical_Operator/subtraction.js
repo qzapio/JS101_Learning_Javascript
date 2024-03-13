@@ -1,0 +1,1 @@
+var difference = 10 - 4; // difference will be 6
